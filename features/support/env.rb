@@ -1,0 +1,6 @@
+require 'selenium-webdriver'
+require 'capybara/cucumber'
+require 'capybara/dsl'
+require 'site_prism'
+require 'rspec/expectations'
+require 'json-schema'

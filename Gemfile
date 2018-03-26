@@ -1,0 +1,10 @@
+source 'http://rubygems.org'
+
+gem 'selenium-webdriver', '3.3.0'
+gem 'capybara', '2.12.1'
+gem 'site_prism', '2.9'
+gem 'rspec-expectations', '3.6.0'
+gem 'cucumber', '2.3.1'
+gem 'chronic'
+gem 'rest-client'
+gem 'json-schema'
